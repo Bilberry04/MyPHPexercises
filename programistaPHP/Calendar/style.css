@@ -1,0 +1,27 @@
+body{
+    margin-left: 20%;
+    margin-right: 20%;
+    font-weight: bolder;
+}
+
+table{
+    width: 100%;
+    border: 3px solid black;
+}
+
+th, td{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    height: 50px;
+    font-size: 30px;
+}
+
+form {
+    border: 5px solid black;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
